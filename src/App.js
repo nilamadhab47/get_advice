@@ -58,7 +58,7 @@ class App extends Component {
           </button>
           <div className="share">
             <FacebookShareButton
-            url={`Visit For more ${"https://silver-sable-e2cbe8.netlify.app/"}`}
+            url={"https://silver-sable-e2cbe8.netlify.app/"}
 
             quote= {`quote of the day ${advice} `}
             hashtag={advice}
